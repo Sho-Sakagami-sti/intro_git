@@ -1,3 +1,5 @@
 Gitの練習をしていきます。
 基本的なワークフローを学びます。
-追記) 4.27にユーザー名を変更し、add→commit→pushしました。
+・git add
+・git commit
+・git rm
